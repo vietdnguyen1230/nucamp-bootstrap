@@ -1,0 +1,16 @@
+.card {
+    border: none
+}
+
+.user-content p {
+    margin-top: 5px;
+    font-size: 15px
+}
+
+.ratings i {
+    color: rgb(0, 0, 0)
+}
+
+.divider {
+    margin: 50px;
+}
